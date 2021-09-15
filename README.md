@@ -60,10 +60,10 @@ Diego Vivius <vandeldiegoc@gmail.com>
 
 [LinkedIn profile](https://www.linkedin.com/in/diego-vivius)
 
-Javier Charria <>
+Javier Charria <javiercharria@gmail.com>
 
-[LinkedIn profile]()
+[LinkedIn profile](https://www.linkedin.com/in/javier-charria-76760764/)
 
-Andrew Kalil <>
+Andrew Kalil <andrew_kalil@hotmail.com>
 
-[LinkedIn profile]()
+[LinkedIn profile](https://www.linkedin.com/in/andrewkalil/)
