@@ -1,5 +1,5 @@
 # disco
-<p align="center"><img src="https://github.com/linkjavier/disco/blob/main/Images/robot_at_piano.jpg" /></p>
+<p align="center"><img src="https://github.com/felipeserna/disco/blob/main/Images/robot_at_piano.jpg" /></p>
 <br>
 
 Machine Learning Portfolio Project by Javier Charria, Andrew Kalil, Felipe Serna, and Diego Vivius. Project developed for Holberton School.
